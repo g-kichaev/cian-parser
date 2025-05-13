@@ -34,5 +34,3 @@
    ```bash
    npm run dev
    ```
-
-## Данный проект на Vercel
